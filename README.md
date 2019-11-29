@@ -1,2 +1,4 @@
 # speech-parser-rs
-A Rust parser and conversion library for Google Speech-to-text native JSON
+A command line tool in Rust to parse and convert Google Speech-to-text native JSON
+
+Rust data structure generated with: https://pypi.org/project/json2rust/
