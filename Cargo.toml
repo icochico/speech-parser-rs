@@ -8,3 +8,4 @@ authors = ["Enrico <enrico.casini@gmail.io>"]
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+indicatif = "0.13.0"
